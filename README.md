@@ -1,10 +1,12 @@
 # Kritika Kumari Chaudhary Portfolio
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-8A2BE2?logo=github)](https://kritika-the-coder.github.io/portfolio/)
+
 A modern and responsive personal portfolio website showcasing my skills, experience, services, and projects. Built using HTML, CSS, and JavaScript with a clean and professional design.
 
 ## Live Demo
 
-Coming Soon
+- GitHub Pages: https://kritika-the-coder.github.io/portfolio/
 
 ## Features
 
@@ -50,13 +52,13 @@ portfolio-website/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/kritika-the-coder/portfolio-website.git
+git clone https://github.com/kritika-the-coder/portfolio.git
 ```
 
 2. Navigate to the project folder.
 
 ```bash
-cd portfolio-website
+cd portfolio
 ```
 
 3. Open `index.html` in your browser.
